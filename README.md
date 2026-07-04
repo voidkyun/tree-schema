@@ -2,7 +2,7 @@
 
 型付き木エディタ。スキーマ（typed node + constraints）が、編集できる木の構造と妥当性を強制する。
 
-- 公開アプリ: https://kobayashi-atma.github.io/tree-schema/
+- 公開アプリ: 
 - 配布ライブラリ `@tree-schema/core`: スキーマを TypeScript で書くための型とグラフユーティリティ（ランタイム依存ゼロ）
 
 ## 構成
@@ -17,7 +17,7 @@ pnpm モノレポ。
 main の HEAD を直接参照する（バージョニングはしない）。
 
 ```bash
-npm i github:kobayashi-atma/tree-schema
+npm i github:voidkyun/tree-schema
 ```
 
 ```ts
