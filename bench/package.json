@@ -1,0 +1,12 @@
+{
+  "name": "tree-schema-bench",
+  "private": true,
+  "type": "module",
+  "description": "設計依存検知の精度ベンチ（in-browser モデルと同じ multilingual-e5 を Node で計測）",
+  "scripts": {
+    "bench": "node run.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.0.0"
+  }
+}
