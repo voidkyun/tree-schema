@@ -2,7 +2,7 @@
 
 型付き木エディタ。スキーマ（typed node + constraints）が、編集できる木の構造と妥当性を強制する。
 
-- 公開アプリ: 
+- 公開アプリ: https://voidkyun.github.io/tree-schema/
 - 配布ライブラリ `@tree-schema/core`: スキーマを TypeScript で書くための型とグラフユーティリティ（ランタイム依存ゼロ）
 
 ## 構成
